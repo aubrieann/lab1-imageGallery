@@ -1,0 +1,16 @@
+img {
+    border-radius: 20%;
+    padding: 10px;
+    margin: 10px;
+    max-width: 200px;
+    display: inline;
+}
+
+.row {
+    padding: 5px;
+    margin: 5px;
+}
+
+figure {
+    display: inline-block;
+}
